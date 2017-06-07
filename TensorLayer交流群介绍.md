@@ -23,7 +23,7 @@
 	<img src="images/yusimiao.jpeg" width="30%" height="30%"/>
 </div>
 
-### NLP：等待申请 稍后公布
+### NLP：待定 稍后公布
 
 
 ### DL理论：莫元汉 MO224582
