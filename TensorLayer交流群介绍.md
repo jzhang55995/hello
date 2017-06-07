@@ -32,10 +32,6 @@
 	<img src="images/moyuanhan.jpeg" width="30%" height="30%"/>
 </div>
 
-### 编程讨论：董豪 zsdh123
 
-<div align="center">
-	<img src="images/donghao.jpeg" width="30%" height="30%"/>
-</div>
 
 
