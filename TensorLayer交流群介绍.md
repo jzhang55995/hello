@@ -7,11 +7,15 @@
 
 ### 医疗AI：杨光 dr\_g\_yang    
 
+请注明
+
 <div align="center">
 	<img src="images/yangguang.jpeg" width="30%" height="30%"/>
 </div>
 
 ### GAN：董豪 zsdh123
+
+请注明科研机构和具体研究方向。
 
 <div align="center">
 	<img src="images/donghao.jpeg" width="30%" height="30%"/>
